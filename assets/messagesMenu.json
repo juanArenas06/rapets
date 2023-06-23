@@ -1,0 +1,35 @@
+[
+    {
+        "userName":"pepito",
+        "lastMessage":"hola",
+        "image":"assets/images/mascota.jpg",
+        "isRead":false
+    },
+
+    {
+        "userName":"pepita",
+        "lastMessage":"hola",
+        "image":"assets/images/mascota.jpg",
+        "isRead":true
+    },
+
+
+    {
+        "userName":"Gloria",
+        "lastMessage":"hola",
+        "image":"assets/images/mascota.jpg",
+        "isRead":false
+    },
+
+    {
+        "userName":"Yo",
+        "lastMessage":"hola",
+        "image":"assets/images/logo.jpg",
+        "isRead":true
+    }
+
+]
+
+
+
+

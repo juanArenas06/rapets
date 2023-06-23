@@ -1,0 +1,87 @@
+[
+    {
+        "text":"hola,como estas?",
+        "date":"2022-03-23",
+        "isSendByMe": false,
+        "isSendBy":"Yo"
+    },
+
+    {
+        "text":"hola,como estas?",
+        "date":"2022-04-23",
+        "isSendByMe": true,
+        "isSendTo":"pepito"
+    },
+
+    {
+        "text":"hola,como estas?",
+        "date":"2022-05-23",
+        "isSendByMe": false,
+        "isSendBy":"pepito"
+    },
+
+    {
+        "text":"hola,como estas?",
+        "date":"2022-06-23",
+        "isSendByMe": true,
+        "isSendTo":"Gloria"
+    },
+
+    {
+        "text":"hola,como estas?",
+        "date":"2022-07-23",
+        "isSendByMe": true,
+        "isSendTo":"pepito"
+    },
+    {
+        "text":"hola,como estas?",
+        "date":"2022-08-23",
+        "isSendByMe": true,
+        "isSendTo":"Yo"
+    },
+    {
+        "text":"hola,como estas?",
+        "date":"2022-09-23",
+        "isSendByMe": false,
+        "isSendBy":"Gloria"
+    },
+
+    {
+        "text":"hola,como estas?",
+        "date":"2022-09-23",
+        "isSendByMe": false,
+        "isSendBy":"pepito"
+    },
+    {
+        "text":"hola,como estas?",
+        "date":"2023-01-21",
+        "isSendByMe": true,
+        "isSendTo":"pepito"
+    },
+
+    {
+        "text":"hola,como estas?",
+        "date":"2023-01-25",
+        "isSendByMe": false,
+        "isSendBy":"Gloria"
+    },
+    {
+        "text":"hola,como estas?",
+        "date":"2023-01-23",
+        "isSendByMe": false,
+        "isSendBy":"Yo"
+    },
+    {
+        "text":"hola,como estas?",
+        "date":"2023-01-23",
+        "isSendByMe": false,
+        "isSendBy":"pepito"
+    },
+        
+    {
+        "text":"hola,como estas?",
+        "date":"2023-01-23",
+        "isSendByMe": true,
+        "isSendTo":"pepita"
+    }
+]
