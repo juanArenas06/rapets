@@ -35,7 +35,7 @@ class __loginState extends State<login>
                                   (
                                     mainAxisAlignment: MainAxisAlignment.center,
                                       children: [
-                                        const Text( "INICIAR SESION",
+                                        const Text( "INICIAR SESIÓN",
                                           style: TextStyle(
                                             color: Colors.black,
                                             fontSize: 20.0,
